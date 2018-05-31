@@ -251,8 +251,8 @@ Edit,Editar,module,Magento_AdvancedSearch
 "Input data must be string or convertible into string.","Os dados inseridos devem ser texto ou convertíveis para texto.",module,Magento_Analytics
 "Input data must be non-empty string.","Dados inseridos devem ser do tipo texto e não pode ser vazio.",module,Magento_Analytics
 "Not valid cipher method.","Método de codificação não é válido.",module,Magento_Analytics
-"Encryption key can't be empty.","Encryption key can't be empty.",module,Magento_Analytics
-"Source ""%1"" is not exist","Source ""%1"" is not exist",module,Magento_Analytics
+"Encryption key can't be empty.","Chave de criptografia não pode ser vazio.",module,Magento_Analytics
+"Source ""%1"" is not exist","Não existe fonte ""%1""",module,Magento_Analytics
 "These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Não é possível encontrar o utilizador de integração predefinido!",module,Magento_Analytics
 "File is not ready yet.","File is not ready yet.",module,Magento_Analytics
